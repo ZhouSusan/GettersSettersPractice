@@ -1,7 +1,7 @@
 # GettersSettersPractice
 
-#This is an activity to learn how to create and use getters and setters in Java.
-
+This is an activity to learn how to create and use getters and setters in Java.
+<hr> 
 <p>Create a CreditCard class</p>
 <p> Create a new credit card object </p>
 <p> Set the name </p>
