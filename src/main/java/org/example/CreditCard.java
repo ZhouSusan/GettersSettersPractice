@@ -14,5 +14,11 @@ public class CreditCard {
         return name;
     }
 
-    
+    public void setCreditCardNumber(String creditCardNumber) {
+        this.creditCardNumber = creditCardNumber;
+    }
+
+    public String getCreditCardNumber() {
+        return creditCardNumber;
+    }
 }
