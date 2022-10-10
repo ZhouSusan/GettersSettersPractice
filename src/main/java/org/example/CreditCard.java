@@ -29,4 +29,12 @@ public class CreditCard {
     public String getExpirationDate() {
         return expirationDate;
     }
+
+    public void setCvv(int cvv) {
+        this.cvv = cvv;
+    }
+
+    public int getCvv() {
+        return cvv;
+    }
 }
