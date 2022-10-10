@@ -21,4 +21,12 @@ public class CreditCard {
     public String getCreditCardNumber() {
         return creditCardNumber;
     }
+
+    public void setExpirationDate(String expirationDate) {
+        this.expirationDate = expirationDate;
+    }
+
+    public String getExpirationDate() {
+        return expirationDate;
+    }
 }
